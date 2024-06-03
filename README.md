@@ -1,1 +1,1 @@
-# Hr-Data-Analsis-using-SQL-and-Power-BI
+# Hr-Data-Analyis-using-SQL-and-Power-BI
